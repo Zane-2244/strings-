@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\Demo S\Demo S\bin\Debug\Demo S.exe.config
+C:\Users\Zane\source\repos\Demo S\Demo S\bin\Debug\Demo S.exe
+C:\Users\Zane\source\repos\Demo S\Demo S\bin\Debug\Demo S.pdb
+C:\Users\Zane\source\repos\Demo S\Demo S\obj\Debug\Demo S.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\Demo S\Demo S\obj\Debug\Demo S.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\Demo S\Demo S\obj\Debug\Demo S.exe
+C:\Users\Zane\source\repos\Demo S\Demo S\obj\Debug\Demo S.pdb
